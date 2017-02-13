@@ -21,7 +21,6 @@ bin/
 gen/
 out/
 
-# Gradle files
 
 
 # Local configuration file (sdk path, etc)
